@@ -1,0 +1,3 @@
+print("go")
+
+print("gogo")
