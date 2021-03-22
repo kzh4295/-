@@ -98,6 +98,11 @@ Elastic Compute Cloud  aws에서 사용하는 인스턴스 인 거 같다.
 # 변수
 컨텍스트에 포함
 
+# ssh 
+security shell
+
+# GC
+garbage collector 더이상 사용하지 않는 데이터를 메
 
 
 
