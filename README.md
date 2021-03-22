@@ -104,7 +104,8 @@ security shell
 # GC
 garbage collector 더이상 사용하지 않는 데이터를 메
 
-
+# CLI
+Command-line interface
 
 
 
