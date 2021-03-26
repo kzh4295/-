@@ -107,6 +107,9 @@ garbage collector 더이상 사용하지 않는 데이터를 메
 # CLI
 Command-line interface
 
+# 크로스브라우징
+다양한 웹브라우저를 이용하더라도 사이트를 동일하게 이용할 수 있게 만드는 기술
+
 
 
 	
